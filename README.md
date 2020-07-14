@@ -1,6 +1,8 @@
-#OBS: 
-Todos os códigos contém o link da questão e as informações de input e output.
-Linguagens utilizadas: C, C++ e Python.
+# OBS: <br>
+<ul>
+  <li>Todos os códigos contém o link da questão e as informações de input e output. </li>
+  <li>Linguagens utilizadas: C, C++ e Python. </li>
+  </ul>
 
 # listas Paguso
 
